@@ -2,5 +2,6 @@
 
 <target name="code" description="testing code">
 <echo>Hi this is testing</echo>
+</target>
 
 </project>
