@@ -1,4 +1,4 @@
-<project name="test" basedir="." default="">
+<project name="test" basedir="." default="code">
 
 <target name="code" description="testing code">
 <echo>Hi this is testing</echo>
